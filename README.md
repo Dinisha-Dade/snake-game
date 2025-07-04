@@ -8,7 +8,7 @@ Html, CSS, Javascript
 
 # Output :
 
-You can check the output with this [link](https://rahul-dade.github.io/snake-game/)
+You can check the output with this [link](https://dinisha-dade.github.io/snake-game/)
 
 # screenshot
 
